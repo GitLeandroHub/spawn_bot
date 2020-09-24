@@ -1,0 +1,19 @@
+{
+  "name": "spawn_bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "spawn_bot"
+  },
+  "author": "Leandro_SpawnBTC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "telegraf": "^3.38.0"
+  }
+}
